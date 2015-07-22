@@ -1,0 +1,125 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Client_BuildUnit.sqf#2012.10.02@22.04:13
+b1bd4a43cecf45c518f0797bc76e48be *Client_BuildUnit.sqf
+#md5#Client_ChangePlayerFunds.sqf#2012.10.02@22.04:13
+07b37ca8199f474fe5e0fbb9185c5079 *Client_ChangePlayerFunds.sqf
+#md5#Client_CommandChatMessage.sqf#2012.10.02@22.04:13
+91a2e45df1c1ad8b7bb923dd4ca9c786 *Client_CommandChatMessage.sqf
+#md5#Client_FNC_Groups.sqf#2012.10.02@22.04:13
+6da008ab426d15b9f3ee27e9e3d71d17 *Client_FNC_Groups.sqf
+#md5#Client_FNC_Special.sqf#2012.10.02@22.04:13
+9220f3e90397004c912b16f0dbf09e44 *Client_FNC_Special.sqf
+#md5#Client_FX.sqf#2012.10.02@22.04:13
+48382d030bb1a76bed52677f2a49a9a8 *Client_FX.sqf
+#md5#Client_GetAIID.sqf#2012.10.02@22.04:13
+c78b5b63b7afbf29f54f9c72c7ef60ae *Client_GetAIID.sqf
+#md5#Client_GetBackpackContent.sqf#2012.10.02@22.04:13
+e5b90d81111c316253387ec9ad697672 *Client_GetBackpackContent.sqf
+#md5#Client_GetClosestAirport.sqf#2012.10.02@22.04:13
+1ff915f627f52738056bdb7c71e8eee5 *Client_GetClosestAirport.sqf
+#md5#Client_GetClosestCamp.sqf#2012.10.02@22.04:13
+c42aedc0852d7634c90ed077a9eba5d7 *Client_GetClosestCamp.sqf
+#md5#Client_GetClosestDepot.sqf#2012.10.02@22.04:13
+8a530f0d5710ce68f945c282b71bce19 *Client_GetClosestDepot.sqf
+#md5#Client_GetGearCargoSize.sqf#2012.10.02@22.04:13
+4d65a29fe1fcc1bbc03b0328389e61ca *Client_GetGearCargoSize.sqf
+#md5#Client_GetIncome.sqf#2012.10.02@22.04:13
+21b544bed934da80fd6454dda4b2fca5 *Client_GetIncome.sqf
+#md5#Client_GetMagazinesSize.sqf#2012.10.02@22.04:13
+3afa99c0ae60e69876341d41b75217aa *Client_GetMagazinesSize.sqf
+#md5#Client_GetParsedGear.sqf#2012.10.02@22.04:13
+00d703f0a2a5b2a670dfa269d1be26bd *Client_GetParsedGear.sqf
+#md5#Client_GetPlayerFunds.sqf#2012.10.02@22.04:13
+87e6a3d2341d9afde94b1e4666747259 *Client_GetPlayerFunds.sqf
+#md5#Client_GetRespawnAvailable.sqf#2012.10.02@22.04:13
+444867a8c962c3e7b949a67bcd68c11c *Client_GetRespawnAvailable.sqf
+#md5#Client_GetStructureMarkerLabel.sqf#2012.10.02@22.04:13
+96b71f84fbf9984a3ccc1dd9aab44ef1 *Client_GetStructureMarkerLabel.sqf
+#md5#Client_GetTime.sqf#2012.10.02@22.04:13
+902558e33d991b7afc65668c8859b337 *Client_GetTime.sqf
+#md5#Client_GetUnitBackpack.sqf#2012.10.02@22.04:13
+75166466caee69c45162a0d527a9dfc2 *Client_GetUnitBackpack.sqf
+#md5#Client_GetVehicleCargoSize.sqf#2012.10.02@22.04:14
+9adacb012bbd6357c89ba2b984224b78 *Client_GetVehicleCargoSize.sqf
+#md5#Client_GetVehicleContent.sqf#2012.10.02@22.04:14
+d9bbd9f2213d0a816b96d0ea0a9878bc *Client_GetVehicleContent.sqf
+#md5#Client_GroupChatMessage.sqf#2012.10.02@22.04:14
+dd441d1d71ac2c0a0a071dedbf9dbe01 *Client_GroupChatMessage.sqf
+#md5#Client_HandleHQAction.sqf#2012.10.02@22.04:14
+a6443d4dcc9aa9ca5f20d6b1819a3b5f *Client_HandleHQAction.sqf
+#md5#Client_HandleOnMap.sqf#2012.10.02@22.04:14
+ff20e645d75cd4bb9fc3fea7c9472254 *Client_HandleOnMap.sqf
+#md5#Client_HandlePVF.sqf#2012.10.02@22.04:14
+bd8e92bbb305906c487a650ccddd3b1c *Client_HandlePVF.sqf
+#md5#Client_IsOnMap.sqf#2012.10.02@22.04:14
+e4661a8a3f7c08d1a7a52e129832971c *Client_IsOnMap.sqf
+#md5#Client_MarkerAnim.sqf#2012.10.02@22.04:14
+f3a2efd2356f24ac880655ea97d1d2c9 *Client_MarkerAnim.sqf
+#md5#Client_OnKilled.sqf#2012.10.02@22.04:14
+8376a14d019e15123a6914d3e1e1361d *Client_OnKilled.sqf
+#md5#Client_OnRespawnHandler.sqf#2012.10.02@22.04:14
+54c63afe641fd3c681d25784535d1064 *Client_OnRespawnHandler.sqf
+#md5#Client_OperateCargoGear.sqf#2012.10.02@22.04:14
+ea24fa5181e4ae17b8d3d53d09b90438 *Client_OperateCargoGear.sqf
+#md5#Client_PreRespawnHandler.sqf#2012.10.02@22.04:14
+2dedbd24ae3b0552d2d3890e079c5e46 *Client_PreRespawnHandler.sqf
+#md5#Client_RemoveMagazineGear.sqf#2012.10.02@22.04:14
+adc35b7f516054ca1eb42bf233c79bae *Client_RemoveMagazineGear.sqf
+#md5#Client_ReplaceArray.sqf#2012.10.02@22.04:14
+485bceb50d7c4b395d7d123e82e32371 *Client_ReplaceArray.sqf
+#md5#Client_ReplaceMagazinesGear.sqf#2012.10.02@22.04:14
+061d2aa57800cd6df09ca7fbdd632cba *Client_ReplaceMagazinesGear.sqf
+#md5#Client_RequestFireMission.sqf#2012.10.02@22.04:14
+7aedab9020a93f0d0d5d57ce5ae50080 *Client_RequestFireMission.sqf
+#md5#Client_SetControlFadeAnim.sqf#2012.10.02@22.04:14
+1d6c7a47b0ca2d137a6481dfcf6fb276 *Client_SetControlFadeAnim.sqf
+#md5#Client_SetControlFadeAnimStop.sqf#2012.10.02@22.04:14
+5879359a8736bc9a82bde6071c18d745 *Client_SetControlFadeAnimStop.sqf
+#md5#Client_SetGroupsID.sqf#2012.10.02@22.04:14
+8ff6b83bb2af9e35d016f82f3c865e6a *Client_SetGroupsID.sqf
+#md5#Client_SupportHeal.sqf#2012.10.02@22.04:14
+4abf4fc642c1c1f70d8b4728d2ea2f16 *Client_SupportHeal.sqf
+#md5#Client_SupportRearm.sqf#2012.10.02@22.04:14
+2c455d341be01a122023fcef35da9841 *Client_SupportRearm.sqf
+#md5#Client_SupportRefuel.sqf#2012.10.02@22.04:14
+dcb80ef0e765843fd32758c28e6afcf4 *Client_SupportRefuel.sqf
+#md5#Client_SupportRepair.sqf#2012.10.02@22.04:14
+09174c0e54bd1409ac767dad1f81997a *Client_SupportRepair.sqf
+#md5#Client_TaskSystem.sqf#2012.10.02@22.04:14
+a47ac3918c3232a51e1d1a61e8605110 *Client_TaskSystem.sqf
+#md5#Client_TitleTextMessage.sqf#2012.10.02@22.04:14
+b6f33e3de9959655dda498767dc05d61 *Client_TitleTextMessage.sqf
+#md5#Client_UIChangeComboBuyUnits.sqf#2012.10.02@22.04:14
+bfa3707ade6a1782fac3cf6f04126a90 *Client_UIChangeComboBuyUnits.sqf
+#md5#Client_UIFillListBuyUnits.sqf#2012.10.02@22.04:14
+334dc82bf9754fc3446e2f5cb01d651e *Client_UIFillListBuyUnits.sqf
+#md5#Client_UIFillListTeamOrders.sqf#2012.10.02@22.04:14
+3999edaf8f26180e3c1d74dc58a2ad0a *Client_UIFillListTeamOrders.sqf
+#md5#Client_UIFindLBValue.sqf#2012.10.02@22.04:14
+2d6ba8ff3f4ab7cdf48f8a35c5f7dcbf *Client_UIFindLBValue.sqf
+#md5#Client_UI_Gear_AddTemplate.sqf#2012.10.02@22.04:14
+e68fdfa4adaa8e7fa6566f792e05ba21 *Client_UI_Gear_AddTemplate.sqf
+#md5#Client_UI_Gear_DeleteTemplate.sqf#2012.10.02@22.04:14
+b0e85eac2cdf43be93c049a4f08e9aad *Client_UI_Gear_DeleteTemplate.sqf
+#md5#Client_UI_Gear_DisplayInventory.sqf#2012.10.02@22.04:14
+8990a24fcce4bc5e7538d6401b48be0b *Client_UI_Gear_DisplayInventory.sqf
+#md5#Client_UI_Gear_FillCargoList.sqf#2012.10.02@22.04:14
+1e020067c0d95cc95470b61ec52b2e4b *Client_UI_Gear_FillCargoList.sqf
+#md5#Client_UI_Gear_FillList.sqf#2012.10.02@22.04:14
+4d4c6734180e820b31e074ebbd39b4ce *Client_UI_Gear_FillList.sqf
+#md5#Client_UI_Gear_FillTemplates.sqf#2012.10.02@22.04:14
+5b8da867a8778a108b852853b08e8d84 *Client_UI_Gear_FillTemplates.sqf
+#md5#Client_UI_Gear_ParseTemplateContent.sqf#2012.10.02@22.04:14
+e0e2901ef0ee209e950fb8bba6d6b346 *Client_UI_Gear_ParseTemplateContent.sqf
+#md5#Client_UI_Gear_Sanitize.sqf#2012.10.02@22.04:14
+2fa094c461e2798aa880a4be4c2fc127 *Client_UI_Gear_Sanitize.sqf
+#md5#Client_UI_Gear_UpdatePrice.sqf#2012.10.02@22.04:14
+ecfbedab2be1ce99384d985362994c25 *Client_UI_Gear_UpdatePrice.sqf
+#md5#Client_UI_Gear_UpdateTarget.sqf#2012.10.02@22.04:14
+11287d83baa99b177a02e98f5ee6aa44 *Client_UI_Gear_UpdateTarget.sqf
+#md5#Client_UI_Gear_UpdateView.sqf#2012.10.02@22.04:14
+ab31744145b994f0266e3316dac5252a *Client_UI_Gear_UpdateView.sqf
+#md5#Client_UI_Respawn_Selector.sqf#2012.10.02@22.04:14
+3e52fb2b2ed2b2f1d9375551a5fc266b *Client_UI_Respawn_Selector.sqf

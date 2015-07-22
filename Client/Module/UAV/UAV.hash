@@ -1,0 +1,11 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#uav.sqf#2012.10.02@22.04:14
+90c67b95456ccee68a0edfabff7bf76e *uav.sqf
+#md5#uav_interface.sqf#2012.10.02@22.04:14
+60ece482fa9f9248e67450a803ba598d *uav_interface.sqf
+#md5#uav_interface_oa.sqf#2012.10.02@22.04:14
+f57efa6406022c7dd6cef70113c9d2c7 *uav_interface_oa.sqf
+#md5#uav_spotter.sqf#2012.10.02@22.04:14
+b1e41874905ada4e63bad7c6af4b4398 *uav_spotter.sqf

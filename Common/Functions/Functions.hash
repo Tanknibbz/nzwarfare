@@ -1,0 +1,223 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Common_ArrayPush.sqf#2012.10.02@22.04:14
+0c5640063045971ea3f291cd21735768 *Common_ArrayPush.sqf
+#md5#Common_ArrayRemoveIndex.sqf#2012.10.02@22.04:14
+5702da596614dbff08f9998899dd57f8 *Common_ArrayRemoveIndex.sqf
+#md5#Common_ArrayShift.sqf#2012.10.02@22.04:14
+0f01d2daee009f6abf477450303d28da *Common_ArrayShift.sqf
+#md5#Common_ArrayShuffle.sqf#2012.10.02@22.04:14
+37966a664bd68a0b86646bf50a914919 *Common_ArrayShuffle.sqf
+#md5#Common_BalanceInit.sqf#2012.10.02@22.04:14
+87465087bcf25ffa3c2a794614b6963b *Common_BalanceInit.sqf
+#md5#Common_BuildingInRange.sqf#2012.10.02@22.04:14
+e1474da24d59643230aedaf4c0bfb0d6 *Common_BuildingInRange.sqf
+#md5#Common_ChangeSideSupply.sqf#2012.10.02@22.04:14
+7e0162af8dc15a79a9d8b96e1bf2e3d4 *Common_ChangeSideSupply.sqf
+#md5#Common_ChangeTeamFunds.sqf#2012.10.02@22.04:14
+87bdfa8139afae526fc3ba0b7ab19cdf *Common_ChangeTeamFunds.sqf
+#md5#Common_ChangeUnitGroup.sqf#2012.10.02@22.04:14
+57dd467f692df6d0fec745896a83ceca *Common_ChangeUnitGroup.sqf
+#md5#Common_ClearVehicleCargo.sqf#2012.10.02@22.04:14
+e7560d351a2320e89fcc3f099f6ac49e *Common_ClearVehicleCargo.sqf
+#md5#Common_ClearVehicleCargoOA.sqf#2012.10.02@22.04:14
+367c7db9ff1a937b7a7913a893e874eb *Common_ClearVehicleCargoOA.sqf
+#md5#Common_CreateTeam.sqf#2012.10.02@22.04:14
+6d193b247f9ec5accb791499471f670d *Common_CreateTeam.sqf
+#md5#Common_CreateTownUnits.sqf#2012.10.02@22.04:14
+f2e90a5e7afe7456cd8164f9e3775db6 *Common_CreateTownUnits.sqf
+#md5#Common_CreateUnit.sqf#2012.10.02@22.04:14
+f27c4a8db8ea1d687d01abca68635a31 *Common_CreateUnit.sqf
+#md5#Common_CreateVehicle.sqf#2012.10.02@22.04:14
+231ae6807691310372efe6a61b62e0e8 *Common_CreateVehicle.sqf
+#md5#Common_EquipArtillery.sqf#2012.10.02@22.04:14
+f76ff970bf3b576cc6bb5ecd5d7f8390 *Common_EquipArtillery.sqf
+#md5#Common_EquipBackpack.sqf#2012.10.02@22.04:14
+a3fadaa6ae65d02987bc0f92ddad0b0b *Common_EquipBackpack.sqf
+#md5#Common_EquipLoadout.sqf#2012.10.02@22.04:14
+ea2a5722abc445c367c056b0e7c14059 *Common_EquipLoadout.sqf
+#md5#Common_EquipUnit.sqf#2012.10.02@22.04:14
+2f1ce228be1e3ff6bf6d77514e8856ff *Common_EquipUnit.sqf
+#md5#Common_EquipVehicle.sqf#2012.10.02@22.04:14
+e16e2a2f613a28707f67565b1923ef96 *Common_EquipVehicle.sqf
+#md5#Common_FindTurretsRecursive.sqf#2012.10.02@22.04:14
+db66e6bbbc1276349682e85d580592b9 *Common_FindTurretsRecursive.sqf
+#md5#Common_FireArtillery.sqf#2015.07.21@17.09:04
+b8831aab56b682fd57ee0095f55ec29d *Common_FireArtillery.sqf
+#md5#Common_GetAIDigit.sqf#2012.10.02@22.04:14
+0f881e8edfd95f07b32a25d209a16f25 *Common_GetAIDigit.sqf
+#md5#Common_GetAreaEnemiesCount.sqf#2012.10.02@22.04:14
+b1bcfdbaadeb5668628134e1c8957350 *Common_GetAreaEnemiesCount.sqf
+#md5#Common_GetClientTeam.sqf#2012.10.02@22.04:14
+9a9a11daa1f98fded56daef61fb9f17c *Common_GetClientTeam.sqf
+#md5#Common_GetClosestEnemyLocation.sqf#2012.10.02@22.04:14
+42195830340d5def2c1d92db98b8e007 *Common_GetClosestEnemyLocation.sqf
+#md5#Common_GetClosestEntity.sqf#2012.10.02@22.04:14
+9f9702cbf73ef62f2da9ededa36a9859 *Common_GetClosestEntity.sqf
+#md5#Common_GetClosestLocation.sqf#2012.10.02@22.04:14
+3bc4b56cc46acd66f7f2e39338cb4433 *Common_GetClosestLocation.sqf
+#md5#Common_GetClosestLocationBySide.sqf#2012.10.02@22.04:14
+91ca2165f77212c2ccedfbc89d7db36f *Common_GetClosestLocationBySide.sqf
+#md5#Common_GetCommanderTeam.sqf#2012.10.02@22.04:14
+d7da2b865d86f7c2533cbd036a29d2c7 *Common_GetCommanderTeam.sqf
+#md5#Common_GetConfigEntry.sqf#2012.10.02@22.04:14
+5537dc097f3f6b1997cb3e6e766d74df *Common_GetConfigEntry.sqf
+#md5#Common_GetConfigInfo.sqf#2012.10.02@22.04:14
+48dfb682e6d745c84354c87cdaedc693 *Common_GetConfigInfo.sqf
+#md5#Common_GetConfigVehicleCrewSlot.sqf#2012.10.02@22.04:14
+0e26d1fd30589f7bb444ab62d9639358 *Common_GetConfigVehicleCrewSlot.sqf
+#md5#Common_GetConfigVehicleTurrets.sqf#2012.10.02@22.04:14
+67e66f8b20d0e41afbf49f8def174cda *Common_GetConfigVehicleTurrets.sqf
+#md5#Common_GetConfigVehicleTurretsReturn.sqf#2012.10.02@22.04:14
+22172510a72a5be899b7cc662f2bb7ee *Common_GetConfigVehicleTurretsReturn.sqf
+#md5#Common_GetDirTo.sqf#2012.10.02@22.04:14
+137ec15c5a60ad67c4f354df41e8c6c4 *Common_GetDirTo.sqf
+#md5#Common_GetEmptyPosition.sqf#2012.10.02@22.04:14
+c2f6551426fc16dacf2d81a18269f270 *Common_GetEmptyPosition.sqf
+#md5#Common_GetFactories.sqf#2012.10.02@22.04:14
+bcbafddadf505f21552cb1edb8245f3f *Common_GetFactories.sqf
+#md5#Common_GetFriendlyCamps.sqf#2012.10.02@22.04:14
+f2b97b9500163cca48f210634649e3db *Common_GetFriendlyCamps.sqf
+#md5#Common_GetGroupFromConfig.sqf#2012.10.02@22.04:14
+c33b6a017f9d70523b15c31c0e12797a *Common_GetGroupFromConfig.sqf
+#md5#Common_GetHostilesInArea.sqf#2012.10.02@22.04:14
+ea65813f3e4ad3b71513bd017594b346 *Common_GetHostilesInArea.sqf
+#md5#Common_GetLiveUnits.sqf#2012.10.02@22.04:14
+61c5fcf89a0f80d15f976833d40b77b7 *Common_GetLiveUnits.sqf
+#md5#Common_GetNameSpace.sqf#2012.10.02@22.04:14
+6cc7a2dd81806020b7c3c515df0692ae *Common_GetNameSpace.sqf
+#md5#Common_GetPositionFrom.sqf#2012.10.02@22.04:14
+7ed70a5e8092a4ee0a3bae57a1eb7fba *Common_GetPositionFrom.sqf
+#md5#Common_GetRandomPosition.sqf#2012.10.02@22.04:14
+e7bec17e8d839037eaa48ca899dbde70 *Common_GetRandomPosition.sqf
+#md5#Common_GetRespawnCamps.sqf#2012.10.02@22.04:14
+0038d916bdf8b33638624c92a248642e *Common_GetRespawnCamps.sqf
+#md5#Common_GetRespawnThreeway.sqf#2012.10.02@22.04:14
+f0cd6344afa1a4abb3c8f01eb026dcd3 *Common_GetRespawnThreeway.sqf
+#md5#Common_GetSafePlace.sqf#2012.10.02@22.04:14
+599731ea34790799a941f92aeab981e0 *Common_GetSafePlace.sqf
+#md5#Common_GetSideFromID.sqf#2012.10.02@22.04:14
+acce3b832251579b845ab830c7c2c96f *Common_GetSideFromID.sqf
+#md5#Common_GetSideHQ.sqf#2012.10.02@22.04:14
+6cfcf841b1d147abfbe3c73728f444d6 *Common_GetSideHQ.sqf
+#md5#Common_GetSideHQDeployStatus.sqf#2012.10.02@22.04:14
+f24acbf711a5435a47fc550880dfaef1 *Common_GetSideHQDeployStatus.sqf
+#md5#Common_GetSideID.sqf#2012.10.02@22.04:14
+febf7741b24bdd3bda7fd9bed227a6cc *Common_GetSideID.sqf
+#md5#Common_GetSideLogic.sqf#2012.10.02@22.04:14
+0f4c470294f27a8741ba6d110b4e3988 *Common_GetSideLogic.sqf
+#md5#Common_GetSideStructures.sqf#2012.10.02@22.04:14
+72d9e3e5f06f67e6350b5d5b42446851 *Common_GetSideStructures.sqf
+#md5#Common_GetSideSupply.sqf#2012.10.02@22.04:14
+df74a6c4103d93b8c086a83a0212b489 *Common_GetSideSupply.sqf
+#md5#Common_GetSideTowns.sqf#2012.10.02@22.04:14
+2ccdeabb07c6c576f44e20f8ee580be2 *Common_GetSideTowns.sqf
+#md5#Common_GetSideUpgrades.sqf#2012.10.02@22.04:14
+1b3fbdb11803661f174dd153321bd66c *Common_GetSideUpgrades.sqf
+#md5#Common_GetSleepFPS.sqf#2012.10.02@22.04:14
+cfb6a5833a74c7155885956a0892466d *Common_GetSleepFPS.sqf
+#md5#Common_GetTeamArtillery.sqf#2012.10.02@22.04:14
+5b9a295923edf0e4de2851e9290379d4 *Common_GetTeamArtillery.sqf
+#md5#Common_GetTeamAutonomous.sqf#2012.10.02@22.04:14
+c85ff05e8c0a3b0a9f14d5caa1c4ef5e *Common_GetTeamAutonomous.sqf
+#md5#Common_GetTeamFunds.sqf#2012.10.02@22.04:14
+83bfd81e8fb7b578c2332d9683658f9b *Common_GetTeamFunds.sqf
+#md5#Common_GetTeamMoveMode.sqf#2012.10.02@22.04:14
+fe2d4145650e3f666589e23ec25f9a70 *Common_GetTeamMoveMode.sqf
+#md5#Common_GetTeamMovePos.sqf#2012.10.02@22.04:14
+4457733fdf7b6d473c079be1600ac7bb *Common_GetTeamMovePos.sqf
+#md5#Common_GetTeamRespawn.sqf#2012.10.02@22.04:14
+3f4fcb652287f1d491a7bad97c2bbde9 *Common_GetTeamRespawn.sqf
+#md5#Common_GetTeamType.sqf#2012.10.02@22.04:14
+e560e7438642842c06a733b160c726ce *Common_GetTeamType.sqf
+#md5#Common_GetTeamVehicles.sqf#2012.10.02@22.04:14
+1e0608fdaad9064472a98ee96a10c383 *Common_GetTeamVehicles.sqf
+#md5#Common_GetTotalCamps.sqf#2012.10.02@22.04:14
+23f72bec7d0e41a8017ddceae3cd7587 *Common_GetTotalCamps.sqf
+#md5#Common_GetTotalCampsOnSide.sqf#2012.10.02@22.04:14
+e17edb5ba7439c2f8e61542a95b37b76 *Common_GetTotalCampsOnSide.sqf
+#md5#Common_GetTotalSupplyValue.sqf#2012.10.02@22.04:14
+118d8b0e0c4a33156fbcde4b3dfc400c *Common_GetTotalSupplyValue.sqf
+#md5#Common_GetTownsHeld.sqf#2012.10.02@22.04:14
+a6425526b9ddd4ec61eff1fa862c4933 *Common_GetTownsHeld.sqf
+#md5#Common_GetTownsIncome.sqf#2012.10.02@22.04:14
+2b5f71e203165757464234c8888afc67 *Common_GetTownsIncome.sqf
+#md5#Common_GetTownsSupply.sqf#2012.10.02@22.04:14
+0448e20e5499216398ac1ebf0f59cc29 *Common_GetTownsSupply.sqf
+#md5#Common_GetUnitConfigGear.sqf#2012.10.02@22.04:14
+5d866227960a45a74516ffd0165c37f2 *Common_GetUnitConfigGear.sqf
+#md5#Common_GetUnitsBelowHeight.sqf#2012.10.02@22.04:14
+cc7da047e7ed6539b56d08a7b5d47a10 *Common_GetUnitsBelowHeight.sqf
+#md5#Common_GetUnitsPerSide.sqf#2012.10.02@22.04:14
+f6d279baccb4e4724f84d7a404e2a9f6 *Common_GetUnitsPerSide.sqf
+#md5#Common_GetUnitVehicle.sqf#2012.10.02@22.04:14
+f11eb080320e51b9d102bc9d28613ec6 *Common_GetUnitVehicle.sqf
+#md5#Common_GetVehicleTurretsGear.sqf#2012.10.02@22.04:14
+976c1f8a9fb9fa216defc0febb901916 *Common_GetVehicleTurretsGear.sqf
+#md5#Common_HandleArtillery.sqf#2012.10.02@22.04:14
+fb6123e097f87a1eaa4c08eeeabf4da5 *Common_HandleArtillery.sqf
+#md5#Common_HandleIncomingMissile.sqf#2012.10.02@22.04:14
+fed5249db19417ca455612be07becd7d *Common_HandleIncomingMissile.sqf
+#md5#Common_IsArtillery.sqf#2012.10.02@22.04:14
+0d78fe2545d9904b3b367b85148cceb9 *Common_IsArtillery.sqf
+#md5#Common_LogContent.sqf#2012.10.02@22.04:14
+e53bde735bca6a703f8df186267f9dcc *Common_LogContent.sqf
+#md5#Common_OnUnitHit.sqf#2012.10.02@22.04:14
+6d9429781633aedc0d03a0038047946f *Common_OnUnitHit.sqf
+#md5#Common_OnUnitKilled.sqf#2012.10.02@22.04:14
+d48ef2f3e943dd0ba136d037d1eb9402 *Common_OnUnitKilled.sqf
+#md5#Common_PlaceNear.sqf#2012.10.02@22.04:14
+3e6632b775be101181dd78023758a1ee *Common_PlaceNear.sqf
+#md5#Common_PlaceSafe.sqf#2012.10.02@22.04:14
+30cc7f19c39ea3048b72fda9cdf4cfd8 *Common_PlaceSafe.sqf
+#md5#Common_RearmVehicle.sqf#2012.10.02@22.04:14
+e2ce0c37ec0493bca4a49968aadcf532 *Common_RearmVehicle.sqf
+#md5#Common_RearmVehicleOA.sqf#2012.10.02@22.04:14
+740e271b2a4f8f4b9514f0ba978d18c8 *Common_RearmVehicleOA.sqf
+#md5#Common_RemoveCountermeasures.sqf#2012.10.02@22.04:14
+98eb3f99693683b276fe23fc9dfafcf1 *Common_RemoveCountermeasures.sqf
+#md5#Common_RevealArea.sqf#2012.10.02@22.04:14
+ab1c4789518330c9671492152012e2dc *Common_RevealArea.sqf
+#md5#Common_SendToClient.sqf#2012.10.02@22.04:14
+64d9770c98f53fa5bc22f34901dfe6f2 *Common_SendToClient.sqf
+#md5#Common_SendToClients.sqf#2012.10.02@22.04:14
+dea8d147e0911c9f3553119acdd8a822 *Common_SendToClients.sqf
+#md5#Common_SendToServer.sqf#2012.10.02@22.04:14
+93731d8fec7bd46088ed6eafcf59461f *Common_SendToServer.sqf
+#md5#Common_SendToServerOptimized.sqf#2012.10.02@22.04:14
+7fead6e27f8c4dc629a60dc72a8cfe3c *Common_SendToServerOptimized.sqf
+#md5#Common_SetCommanderVotes.sqf#2012.10.02@22.04:14
+d4d85235712362bd66abe6bfd29243a2 *Common_SetCommanderVotes.sqf
+#md5#Common_SetNamespace.sqf#2012.10.02@22.04:14
+bf81140535c3a5f8af13b0dcaa0871ca *Common_SetNamespace.sqf
+#md5#Common_SetTeamAutonomous.sqf#2012.10.02@22.04:14
+bd2e96492e3226e9e8db5334f0c9a5be *Common_SetTeamAutonomous.sqf
+#md5#Common_SetTeamMoveMode.sqf#2012.10.02@22.04:14
+2ab57ce742429dda7c0b42d9358ca3f4 *Common_SetTeamMoveMode.sqf
+#md5#Common_SetTeamMovePos.sqf#2012.10.02@22.04:14
+7f2eacf1f374a1cb88bad54d56c295bd *Common_SetTeamMovePos.sqf
+#md5#Common_SetTeamRespawn.sqf#2012.10.02@22.04:14
+88c21f501672189764b880253818b975 *Common_SetTeamRespawn.sqf
+#md5#Common_SetTeamType.sqf#2012.10.02@22.04:14
+4de02f43c90c452ec13ba239c05b2528 *Common_SetTeamType.sqf
+#md5#Common_SetTurretsMagazines.sqf#2012.10.02@22.04:14
+34043e9a46e1429a7e769c0dde5b54c4 *Common_SetTurretsMagazines.sqf
+#md5#Common_SortByDistance.sqf#2012.10.02@22.04:14
+13e691246f66b5ba3c1f2830389858f4 *Common_SortByDistance.sqf
+#md5#Common_SpawnTurrets.sqf#2012.10.02@22.04:14
+ec4c4d6165768462f20ef46eff0b8007 *Common_SpawnTurrets.sqf
+#md5#Common_UpdateStatistics.sqf#2012.10.02@22.04:14
+0b6d10ac653c9de20094b8d7d4756321 *Common_UpdateStatistics.sqf
+#md5#Common_UseStationaryDefense.sqf#2012.10.02@22.04:14
+0fb90af16fb08d382158a3b0d88e39fe *Common_UseStationaryDefense.sqf
+#md5#Common_WaypointPatrol.sqf#2012.10.02@22.04:14
+2b3b1dc9f83c1c0192b91fd24ac4e120 *Common_WaypointPatrol.sqf
+#md5#Common_WaypointPatrolTown.sqf#2012.10.02@22.04:14
+5ca504f8a42476f6af46f280f0b54c01 *Common_WaypointPatrolTown.sqf
+#md5#Common_WaypointsAdd.sqf#2012.10.02@22.04:14
+2bf0e1c03f06926b68ec44c1df245e20 *Common_WaypointsAdd.sqf
+#md5#Common_WaypointSimple.sqf#2012.10.02@22.04:14
+cc4e924be8700d9db38f3ed322a9291f *Common_WaypointSimple.sqf
+#md5#Common_WaypointsRemove.sqf#2012.10.02@22.04:14
+a5b5ffdaff78f3c1ee3b667e4fbff831 *Common_WaypointsRemove.sqf

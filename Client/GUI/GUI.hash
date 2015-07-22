@@ -1,0 +1,41 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#GUI_BuyGearMenu.sqf#2012.10.02@22.04:14
+0b764dd76f04895513e3d3ac58e9a462 *GUI_BuyGearMenu.sqf
+#md5#GUI_ClearCurrentCutDisplay.sqf#2012.10.02@22.04:14
+ac98d9d379e9fcb3b1b2fc6acf955217 *GUI_ClearCurrentCutDisplay.sqf
+#md5#GUI_Display_Parameters.sqf#2012.10.02@22.04:14
+f158a8b855d8111239557014d4915610 *GUI_Display_Parameters.sqf
+#md5#GUI_EndOfGameStats.sqf#2012.10.02@22.04:14
+b908975984f91f46ad74c3d829c62ba4 *GUI_EndOfGameStats.sqf
+#md5#GUI_GroupsMenu.sqf#2012.10.02@22.04:14
+8dad9546424d9109ecb62517ae6ac45f *GUI_GroupsMenu.sqf
+#md5#GUI_Menu.sqf#2012.10.02@22.04:14
+e562a1b6a968446229913943c597ba2b *GUI_Menu.sqf
+#md5#GUI_Menu_BuyUnits.sqf#2012.10.02@22.04:14
+41505c00c890d35d4564b8770bb832cb *GUI_Menu_BuyUnits.sqf
+#md5#GUI_Menu_Command.sqf#2012.10.02@22.04:14
+6d9021cac7212ce7c9c56c9877f5e0d6 *GUI_Menu_Command.sqf
+#md5#GUI_Menu_EASA.sqf#2012.10.02@22.04:14
+bf549be9d0d78565b68f20788d9428fb *GUI_Menu_EASA.sqf
+#md5#GUI_Menu_Economy.sqf#2012.10.02@22.04:14
+34d04574ca9364028b23d208f5e78449 *GUI_Menu_Economy.sqf
+#md5#GUI_Menu_Service.sqf#2012.10.02@22.04:14
+7e112f46e58e68e8a3803fb484ffc3fc *GUI_Menu_Service.sqf
+#md5#GUI_Menu_Tactical.sqf#2012.10.02@22.04:14
+28f48924d0b1f894e881d7acb0c31bc5 *GUI_Menu_Tactical.sqf
+#md5#GUI_Menu_Team.sqf#2012.10.02@22.04:14
+836fbac0de23b38fd562954186317ca1 *GUI_Menu_Team.sqf
+#md5#GUI_Menu_UnitCamera.sqf#2012.10.02@22.04:14
+1e825314877e1e114cd07c5aec54cb50 *GUI_Menu_UnitCamera.sqf
+#md5#GUI_RespawnMenu.sqf#2012.10.02@22.04:14
+a2686a076a3d55e0f681ef991e7754bb *GUI_RespawnMenu.sqf
+#md5#GUI_SetCurrentCutDisplay.sqf#2012.10.02@22.04:14
+810e2de5a9b1fb548cecd4c399d905b8 *GUI_SetCurrentCutDisplay.sqf
+#md5#GUI_TransferMenu.sqf#2012.10.02@22.04:14
+de32d5982acbacb84aa8190773060e8c *GUI_TransferMenu.sqf
+#md5#GUI_UpgradeMenu.sqf#2012.10.02@22.04:14
+a3efe2d82f12705ceaa4874d421e33f1 *GUI_UpgradeMenu.sqf
+#md5#GUI_VoteMenu.sqf#2012.10.02@22.04:14
+6153329db1b9ddd32516d3cdba95a75f *GUI_VoteMenu.sqf

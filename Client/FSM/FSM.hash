@@ -1,0 +1,27 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#client_title_capture.fsm#2012.10.02@22.04:13
+09c02a44e9ec370c91c57bc496817767 *client_title_capture.fsm
+#md5#conquest_helper.fsm#2012.10.02@22.04:13
+ffead6f58c7c86fa0386b12179b9c439 *conquest_helper.fsm
+#md5#env_fast_time_cli.fsm#2012.10.02@22.04:13
+6d451e584137a539f7d2f430dab4ceae *env_fast_time_cli.fsm
+#md5#env_weather_cli.fsm#2012.10.02@22.04:13
+c913ef851f97ad09ddedb9468d23fd33 *env_weather_cli.fsm
+#md5#resources_cli.fsm#2012.10.02@22.04:13
+7163e47bd2f4abe7f2faa38b16764e05 *resources_cli.fsm
+#md5#updateactions.fsm#2012.10.02@22.04:13
+4855e514a0ea05239b516d66c6ff7642 *updateactions.fsm
+#md5#updateavailableactions.fsm#2012.10.02@22.04:13
+5c6c15175b08cd425e1c55167b7d1dd0 *updateavailableactions.fsm
+#md5#updateclient.fsm#2012.10.02@22.04:13
+b345fff0527a1383af141a205dd97df0 *updateclient.fsm
+#md5#updatesalvage.fsm#2012.10.02@22.04:13
+81e1c8c50863c513e16443a093ccb99b *updatesalvage.fsm
+#md5#updatesupply.fsm#2012.10.02@22.04:13
+87e7eddbcb584e99683d5568261bf4e0 *updatesupply.fsm
+#md5#updateteamsmarkers.fsm#2012.10.02@22.04:13
+edc60732e33d62eb97340bc0c0681a05 *updateteamsmarkers.fsm
+#md5#updatetownmarkers.fsm#2012.10.02@22.04:13
+cb29f4a66fb561fe41dedcc637cfd6ce *updatetownmarkers.fsm

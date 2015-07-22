@@ -1,0 +1,9 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#EASA_Equip.sqf#2012.10.02@22.04:14
+bc238d731f0412463985ac127f8c05bf *EASA_Equip.sqf
+#md5#EASA_Init.sqf#2012.10.02@22.04:14
+a021966b6240a6bbdbc0bf3693a062e2 *EASA_Init.sqf
+#md5#EASA_RemoveLoadout.sqf#2012.10.02@22.04:14
+a44ebe0e8db2297fec794d6345bed1e3 *EASA_RemoveLoadout.sqf

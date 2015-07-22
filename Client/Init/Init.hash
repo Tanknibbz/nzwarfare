@@ -1,0 +1,15 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Init_BaseStructure.sqf#2012.10.02@22.04:14
+d40cf689eb7dc7819e0f874539a8ea27 *Init_BaseStructure.sqf
+#md5#Init_Client.sqf#2012.10.02@22.04:14
+3c0b6ebd690275ff06c0a313e0b1b484 *Init_Client.sqf
+#md5#Init_Coin.sqf#2012.10.02@22.04:14
+24eb8acfd13e5981e4689c811580c156 *Init_Coin.sqf
+#md5#Init_Faction.sqf#2012.10.02@22.04:14
+de9d0e952a06575f3cdf2147d171a0dc *Init_Faction.sqf
+#md5#Init_Keybind.sqf#2012.10.02@22.04:14
+3ca7b09cf8d7155068d2b5c02c29ada8 *Init_Keybind.sqf
+#md5#Init_Markers.sqf#2012.10.02@22.04:14
+794a6de545a611981f652f9f8e97358d *Init_Markers.sqf

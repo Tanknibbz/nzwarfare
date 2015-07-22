@@ -1,0 +1,23 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#AllCampsCaptured.sqf#2012.10.02@22.04:14
+253efdd1b891bdcc9812abb33d947c56 *AllCampsCaptured.sqf
+#md5#AwardBounty.sqf#2012.10.02@22.04:14
+d78d0beae10abb88beff4f93491eea45 *AwardBounty.sqf
+#md5#CampCaptured.sqf#2012.10.02@22.04:14
+86616e10745117114cf9109edbdc1cae *CampCaptured.sqf
+#md5#ChangeScore.sqf#2012.10.02@22.04:14
+5ad7c6d726d1f7e5a9b800c204a3ec74 *ChangeScore.sqf
+#md5#HandleSpecial.sqf#2012.10.02@22.04:14
+49114dce7433fda95118af50a009e755 *HandleSpecial.sqf
+#md5#LocalizeMessage.sqf#2012.10.02@22.04:14
+3a91a429096379079cb4684b1015c861 *LocalizeMessage.sqf
+#md5#SECOPS_ReceiveMission.sqf#2012.10.02@22.04:14
+246640f4bb0e28e670e3db18fe85f884 *SECOPS_ReceiveMission.sqf
+#md5#SetTask.sqf#2012.10.02@22.04:14
+61a4d1b58d2bb12fcf99a26f6b38e557 *SetTask.sqf
+#md5#SetVehicleLock.sqf#2012.10.02@22.04:14
+565a58921cf6ba061a4af73cf31253aa *SetVehicleLock.sqf
+#md5#TownCaptured.sqf#2012.10.02@22.04:14
+842bb9d2d8321bb1041dad0845380c7a *TownCaptured.sqf

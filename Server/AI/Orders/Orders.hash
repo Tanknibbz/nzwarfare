@@ -1,0 +1,13 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#AI_MoveTo.sqf#2012.10.02@22.04:14
+a9af32804039a0daf92620d7b4e19cd2 *AI_MoveTo.sqf
+#md5#AI_Patrol.sqf#2012.10.02@22.04:14
+1e558c3bf659623c24520f28fda8ef40 *AI_Patrol.sqf
+#md5#AI_TownPatrol.sqf#2012.10.02@22.04:14
+f5ebc68615941c7d86a5ed8811880b6a *AI_TownPatrol.sqf
+#md5#AI_WPAdd.sqf#2012.10.02@22.04:14
+858a4588fe3927950da1163727a2bae0 *AI_WPAdd.sqf
+#md5#AI_WPRemove.sqf#2012.10.02@22.04:14
+1a3fcc9eeb385f57edceafdf0c5a0c3c *AI_WPRemove.sqf

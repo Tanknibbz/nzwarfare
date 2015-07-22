@@ -1,0 +1,9 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Init_Missions.sqf#2012.10.02@22.04:14
+9e34f1c42549856188b395302283300f *Init_Missions.sqf
+#md5#Missions_CanAssign.sqf#2012.10.02@22.04:14
+808710d0234f7cf720b0defe1ebd848f *Missions_CanAssign.sqf
+#md5#Missions_CanRun.sqf#2012.10.02@22.04:14
+1e2ac3dbfb4a484c89646bf59aaf8f0e *Missions_CanRun.sqf

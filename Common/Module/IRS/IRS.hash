@@ -1,0 +1,13 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#IRS_CreateSmoke.sqf#2012.10.02@22.04:14
+79f0845fe4849c413cb283d242fc853a *IRS_CreateSmoke.sqf
+#md5#IRS_DeploySmoke.sqf#2012.10.02@22.04:14
+2955f26092017a3d2622af9bc2a1460b *IRS_DeploySmoke.sqf
+#md5#IRS_HandleMissile.sqf#2012.10.02@22.04:14
+3d9629ef637f0af78842b5beecdedb43 *IRS_HandleMissile.sqf
+#md5#IRS_Init.sqf#2012.10.02@22.04:14
+ee0fe6fd343f11adb4ae298da58ee774 *IRS_Init.sqf
+#md5#IRS_OnIncomingMissile.sqf#2012.10.02@22.04:14
+3cb79391ce68a3204335fd0dfc282a3f *IRS_OnIncomingMissile.sqf
